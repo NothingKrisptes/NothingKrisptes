@@ -2,7 +2,7 @@
 
 **Acerca de mí**
 
-Soy estudiante de la carrera de Desarrollo de Software, me gusta aprender de todo un poco pero sobre todo me gusta investigar tecnologias emergentes que llaman mi atención.
+Soy estudiante de la carrera de Desarrollo de Software, me gusta aprender de todo un poco pero sobre todo me gusta investigar tecnologias emergentes que llamen mi atención.
 
 **Mis intereses como desarrollador**
 
