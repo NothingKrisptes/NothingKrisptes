@@ -6,8 +6,7 @@ Soy estudiante de la carrera de Desarrollo de Software, me gusta aprender de tod
 
 **Mis intereses como desarrollador**
 
-Actualmente sigo estudiando y me interesa todo acerca de la automatización y creación de nuevos softwares que faciliten a una mejor optimización del tiempo 
-que es muy valioso, otro ambito que me llama mucho la atención es la ciberseguridad.
+Actualmente sigo estudiando, pero me interesa todo lo que tiene que ver con la automatización y creación de softwares que ayuden a optimizar el tiempo que es muy valioso, otro ambito que me llama mucho la atención es la ciberseguridad.
 
 **Mis metas en Web3**
 
